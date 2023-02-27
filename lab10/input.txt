@@ -1,20 +1,20 @@
-totafsdfsf #k fdsfsdf
+01234 #.q 765
 test
-totafsd#k fdsfsdf fdfjs
+4321#.q 0000 1111
 test2
-jfldjfldk # wynik
+99999 #. 098890
 test3
-fjdfsfds # k alal
+12345 # .q 54321
 test4
-djfjkldsjf #k jjjjjj fsfjdljfdlsj flj ldfj
+djfjkldsjf #.q jjjjjj fsfjdljfdlsj flj ldfj
 test5
-gjjkdsljflds #k jdlkfjdslf
+qwerty #q ytrewq
 test6
-fjdslkfjdl #k tttttt
+onomatope #.q azsxdcfv
 test7
-fjdlsjfkl #k oooolll
+fjdlsjfkl#.qoooolll
 test8
-rwrewrew #k fjdslkjfdl
+k0w12e3 #.q w0e9f87
 test9
-fjdlskjfldjflj #k rewrewrew
+qwe123ewq 1#.q1 ewq31qwe
 test10
