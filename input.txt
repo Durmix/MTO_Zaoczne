@@ -1,0 +1,20 @@
+01234 #.q 765
+test
+4321#.q 0000 1111
+test2
+99999 #. 098890
+test3
+12345 # .q 54321
+test4
+djfjkldsjf #.q jjjjjj fsfjdljfdlsj flj ldfj
+test5
+qwerty #q ytrewq
+test6
+onomatope #.q azsxdcfv
+test7
+fjdlsjfkl#.qoooolll
+test8
+k0w12e3 #.q w0e9f87
+test9
+qwe123ewq 1#.q1 ewq31qwe
+test10
